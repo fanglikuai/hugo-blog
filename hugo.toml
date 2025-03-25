@@ -4,13 +4,13 @@ baseURL = "http://example.org/"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 
-theme = "LoveIt"
+theme = "LoveIt" 
 
 
 
 # 网站标题
 
-title = "我的全新 Hugo 网站"
+title = "方立的前进日记"
 
 
 
